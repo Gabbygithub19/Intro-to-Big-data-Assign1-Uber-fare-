@@ -84,7 +84,3 @@ assignment-uber/
 - *(Enhanced features: `hour`, `day`, `month`, `day_of_week`, `peak_offpeak`)*
 
 ---
-
-## License
-
-This project is for educational purposes. The Uber dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
