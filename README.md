@@ -51,13 +51,13 @@ assignment-uber/
   - `uber_enhanced.csv`: Data with additional engineered features
 
 - **Screenshots:**  
-  **Output 1**
+-- **Output 1**
 <img width="876" height="547" alt="output1" src="https://github.com/user-attachments/assets/84b251e7-24f0-471a-a63e-562f1a5cdf5e" />
-  **Output 2**
+-- **Output 2**
 <img width="850" height="547" alt="output2" src="https://github.com/user-attachments/assets/f6aedd91-aeaf-4c49-a402-8179519b06c7" />
- **Output 3**
+-- **Output 3**
 <img width="1005" height="547" alt="output3" src="https://github.com/user-attachments/assets/646bba29-1dfb-459b-8602-46133a6deed6" />
- **Output 4**
+-- **Output 4**
 <img width="625" height="528" alt="output4" src="https://github.com/user-attachments/assets/bb1b96e0-de0d-4eba-baf4-61015260ae60" />
 
 ---
