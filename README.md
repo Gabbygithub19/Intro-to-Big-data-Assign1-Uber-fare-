@@ -44,16 +44,15 @@ assignment-uber/
 
 ---
 
-## How to Use
+## Deliverables
 
-1. **Run the Notebook:**  
-   Open `uber-fare-data-analysis.ipynb` in Jupyter or VS Code and execute cells sequentially.
-2. **Review Outputs:**  
-   Inspect data cleaning, EDA, and feature engineering results.
-3. **Exported Files:**  
-   Use `uber_cleaned.csv` or `uber_enhanced.csv` for Power BI analysis.
-4. **Power BI:**  
-   Import the exported CSV into Power BI Desktop to build interactive dashboards.
+- **Cleaned Datasets:**  
+  - `uber_cleaned.csv`: Cleaned data for analysis and Power BI import  
+  - `uber_enhanced.csv`: Data with additional engineered features
+
+- **Screenshots:**  
+  
+<img width="876" height="547" alt="output1" src="https://github.com/user-attachments/assets/84b251e7-24f0-471a-a63e-562f1a5cdf5e" />
 
 ---
 
